@@ -1,0 +1,18 @@
+body {
+  background-color: gray;
+}
+h1 {
+  color: darkred;
+  background-color: lightcoral;
+}
+ul >li >a 
+{  color: green;}
+
+h2 {color: darm;
+  background-color: lightyellow;
+}
+
+
+p  { 
+  color: lightgray;
+}
